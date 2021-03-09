@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "EEE",
+    "description": "A desktop application."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "EEE"
+  }
+}
